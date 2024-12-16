@@ -1,0 +1,7 @@
+conda create -n PYG python=3.8
+conda activate PYG
+conda install numpy
+pip install -U scikit-learn
+conda install pytorch==2.0.0 torchvision==0.15.0 torchaudio==2.0.0 pytorch-cuda=11.7 -c pytorch -c nvidia
+pip install xlrd
+conda install matplotlib 
