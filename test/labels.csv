@@ -1,0 +1,7 @@
+participant_id,site,protocol,diag,age,sex,hand,diag_indx,Site,MRI Scanner,Magnitic field strength,Number of channels per coil,TR (s),TE (ms),Flip angel (deg),Phse encoding,Matrix,Field of view (mm),In-plane resolution (mm),Slice thickness (mm),Slice gap (mm),Number of slices,Slice acquisition order,Number of volumes,Total scan time ,Eye closed/fixate
+sub-0240,HUH,2,0,48,1,1,2,,,,,,,,,,,,,,,,,,
+sub-0241,HUH,2,1,26,2,1,2,,,,,,,,,,,,,,,,,,
+sub-0242,HUH,2,0,63,1,2,2,,,,,,,,,,,,,,,,,,
+sub-0243,HUH,2,1,40,1,1,2,,,,,,,,,,,,,,,,,,
+sub-0244,HUH,2,0,37,2,1,2,,,,,,,,,,,,,,,,,,
+sub-0245,HUH,2,1,30,1,1,2,,,,,,,,,,,,,,,,,,
